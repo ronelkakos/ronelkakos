@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ronel. I am a Junior student at Oakland University pursuing a Bachelors of Science in Information Technology with a concentration in Cybersecurity. As a student, I have taken numerous courses in different programming languages, understanding cybersecurity concepts, working on networking concepts, and much more. I have worked on multiple projects with different groups and also individually throughout different courses. Feel free to see my work on my GitHub repository! 
+My name is Ronel. I am a Junior student at Oakland University pursuing a Bachelors of Science in Information Technology with a concentration in Cybersecurity. As a student, I have taken numerous courses in different programming languages, understanding cybersecurity concepts, working on networking concepts, and much more. I work very professionally and well on multiple projects with different groups, along with working individually throughout the different courses that I've taken. Feel free to see my work on my GitHub repository! 
 
  📫 How to reach me: www.linkedin.com/in/ronel-kakos
 
